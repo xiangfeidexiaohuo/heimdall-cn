@@ -19,12 +19,19 @@ docker run -d \
 ```
 我是把heimdall的语言包、配置等直接映射到/root/heimdall文件夹下
 
+8888为http访问端口(可自行修改)
+
+8899为https访问端口(可自行修改)
+
 #### 再汉化和修改搜索：
 
 把本项目的app下的文件替换到/root/heimdall/app下
 
 把本项目的lang/en下的文件替换到/root/heimdall/lang/en下
 
+搜索修改到只有3个：谷歌、Bing、百度
+
+替换完成后，刷新下就变中文了~
 
 ### 使用项目
 
