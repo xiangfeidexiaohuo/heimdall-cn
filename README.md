@@ -15,10 +15,13 @@ docker run -d \
   lscr.io/linuxserver/heimdall:latest
 ```
 
-8888为http访问端口(可自行修改)
+* 8888为http访问端口(可自行修改)
 
-8899为https访问端口(可自行修改)
+* 8899为https访问端口(可自行修改)
 
+#### 如图按照123开始，设置为中文：
+
+![CN](./cn.png)
 
 ***
 
